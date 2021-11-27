@@ -27,7 +27,7 @@ class Contact extends Component {
             feedback: '',
             touched: {
                 firstName: false,
-                lastName: false,
+                lastName: false, 
                 phoneNum: false,
                 email: false
             }
